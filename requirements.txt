@@ -1,0 +1,7 @@
+pandas
+sqlalchemy
+pymysql
+cryptography
+matplotlib
+seaborn
+jupyter
